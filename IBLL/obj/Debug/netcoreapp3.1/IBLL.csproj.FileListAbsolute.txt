@@ -1,0 +1,12 @@
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\bin\Debug\netcoreapp3.1\手写IOC.IBLL.deps.json
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\bin\Debug\netcoreapp3.1\手写IOC.IBLL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\bin\Debug\netcoreapp3.1\手写IOC.IBLL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\bin\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\bin\Debug\netcoreapp3.1\手写IOC.Models.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\IBLL.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\IBLL.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\IBLL.csproj.CopyComplete
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\手写IOC.IBLL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\IBLL\obj\Debug\netcoreapp3.1\手写IOC.IBLL.pdb

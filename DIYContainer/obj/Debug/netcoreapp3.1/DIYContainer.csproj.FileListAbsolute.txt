@@ -1,0 +1,14 @@
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.DIYContainer.deps.json
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.DIYContainer.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.DIYContainer.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\DIYContainer.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\DIYContainer.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\DIYContainer.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\DIYContainer.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\手写IOC.DIYContainer.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\手写IOC.DIYContainer.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.IDAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.IDAL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\bin\Debug\netcoreapp3.1\手写IOC.Models.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DIYContainer\obj\Debug\netcoreapp3.1\DIYContainer.csproj.CopyComplete

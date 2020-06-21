@@ -1,0 +1,134 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "手写IOC/1.0.0": {
+        "dependencies": {
+          "手写IOC.BLL_A": "1.0.0",
+          "手写IOC.BLL_B": "1.0.0",
+          "手写IOC.DAL": "1.0.0",
+          "手写IOC.DIYContainer": "1.0.0",
+          "手写IOC.DemoDI": "1.0.0",
+          "手写IOC.IBLL": "1.0.0",
+          "手写IOC.IDAL": "1.0.0",
+          "手写IOC.Models": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.dll": {}
+        }
+      },
+      "手写IOC.BLL_A/1.0.0": {
+        "runtime": {
+          "手写IOC.BLL_A.dll": {}
+        }
+      },
+      "手写IOC.BLL_B/1.0.0": {
+        "dependencies": {
+          "手写IOC.IBLL": "1.0.0",
+          "手写IOC.IDAL": "1.0.0",
+          "手写IOC.Models": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.BLL_B.dll": {}
+        }
+      },
+      "手写IOC.DAL/1.0.0": {
+        "dependencies": {
+          "手写IOC.IDAL": "1.0.0",
+          "手写IOC.Models": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.DAL.dll": {}
+        }
+      },
+      "手写IOC.DemoDI/1.0.0": {
+        "dependencies": {
+          "手写IOC.DIYContainer": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.DemoDI.dll": {}
+        }
+      },
+      "手写IOC.DIYContainer/1.0.0": {
+        "dependencies": {
+          "手写IOC.IDAL": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.DIYContainer.dll": {}
+        }
+      },
+      "手写IOC.IBLL/1.0.0": {
+        "dependencies": {
+          "手写IOC.Models": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.IBLL.dll": {}
+        }
+      },
+      "手写IOC.IDAL/1.0.0": {
+        "dependencies": {
+          "手写IOC.Models": "1.0.0"
+        },
+        "runtime": {
+          "手写IOC.IDAL.dll": {}
+        }
+      },
+      "手写IOC.Models/1.0.0": {
+        "runtime": {
+          "手写IOC.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "手写IOC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.BLL_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.BLL_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.DemoDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.DIYContainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.IBLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.IDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "手写IOC.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

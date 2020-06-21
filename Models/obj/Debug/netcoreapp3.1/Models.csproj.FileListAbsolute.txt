@@ -1,0 +1,9 @@
+D:\projects\Microsoft\vs 2019\手写IOC\Models\bin\Debug\netcoreapp3.1\手写IOC.Models.deps.json
+D:\projects\Microsoft\vs 2019\手写IOC\Models\bin\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\Models\bin\Debug\netcoreapp3.1\手写IOC.Models.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写IOC\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写IOC\Models\obj\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\Models\obj\Debug\netcoreapp3.1\手写IOC.Models.pdb

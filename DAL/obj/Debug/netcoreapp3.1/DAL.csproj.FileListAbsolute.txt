@@ -1,0 +1,14 @@
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.DAL.deps.json
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.DAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.DAL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.IDAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.IDAL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\bin\Debug\netcoreapp3.1\手写IOC.Models.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\手写IOC.DAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\DAL\obj\Debug\netcoreapp3.1\手写IOC.DAL.pdb

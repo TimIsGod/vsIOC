@@ -1,0 +1,12 @@
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\bin\Debug\netcoreapp3.1\手写IOC.IDAL.deps.json
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\bin\Debug\netcoreapp3.1\手写IOC.IDAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\bin\Debug\netcoreapp3.1\手写IOC.IDAL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\bin\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\bin\Debug\netcoreapp3.1\手写IOC.Models.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\IDAL.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\IDAL.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\IDAL.csproj.CopyComplete
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\手写IOC.IDAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\IDAL\obj\Debug\netcoreapp3.1\手写IOC.IDAL.pdb

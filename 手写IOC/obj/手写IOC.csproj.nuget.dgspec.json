@@ -1,0 +1,534 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\手写IOC\\手写IOC.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_A\\BLL_A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_A\\BLL_A.csproj",
+        "projectName": "手写IOC.BLL_A",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_A\\BLL_A.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_A\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_B\\BLL_B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_B\\BLL_B.csproj",
+        "projectName": "手写IOC.BLL_B",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_B\\BLL_B.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_B\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DAL\\DAL.csproj",
+        "projectName": "手写IOC.DAL",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DemoDI\\DemoDI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DemoDI\\DemoDI.csproj",
+        "projectName": "手写IOC.DemoDI",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DemoDI\\DemoDI.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DemoDI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj",
+        "projectName": "手写IOC.DIYContainer",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj",
+        "projectName": "手写IOC.IBLL",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj",
+        "projectName": "手写IOC.IDAL",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj",
+        "projectName": "手写IOC.Models",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\手写IOC\\手写IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\手写IOC\\手写IOC.csproj",
+        "projectName": "手写IOC",
+        "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\手写IOC\\手写IOC.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\手写IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_A\\BLL_A.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_A\\BLL_A.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_B\\BLL_B.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\BLL_B\\BLL_B.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DAL\\DAL.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DemoDI\\DemoDI.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DemoDI\\DemoDI.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\DIYContainer\\DIYContainer.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IBLL\\IBLL.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\IDAL\\IDAL.csproj"
+              },
+              "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj": {
+                "projectPath": "D:\\projects\\Microsoft\\vs 2019\\手写IOC\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

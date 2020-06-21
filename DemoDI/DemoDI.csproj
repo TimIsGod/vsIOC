@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>手写IOC.DemoDI</RootNamespace>
+    <AssemblyName>手写IOC.DemoDI</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DIYContainer\DIYContainer.csproj" />
+  </ItemGroup>
+
+</Project>

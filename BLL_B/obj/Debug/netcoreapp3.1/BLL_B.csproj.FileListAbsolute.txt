@@ -1,0 +1,16 @@
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.BLL_B.deps.json
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.BLL_B.dll
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.BLL_B.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.IBLL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.IDAL.dll
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.Models.dll
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.IBLL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.IDAL.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\bin\Debug\netcoreapp3.1\手写IOC.Models.pdb
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\BLL_B.csprojAssemblyReference.cache
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\BLL_B.csproj.CoreCompileInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\BLL_B.AssemblyInfoInputs.cache
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\BLL_B.AssemblyInfo.cs
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\BLL_B.csproj.CopyComplete
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\手写IOC.BLL_B.dll
+D:\projects\Microsoft\vs 2019\手写IOC\BLL_B\obj\Debug\netcoreapp3.1\手写IOC.BLL_B.pdb
